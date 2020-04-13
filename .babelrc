@@ -8,7 +8,6 @@
         ]
       }
     }],
-    ["@babel/stage-2",{"decoratorsLegacy":true}]
   ],
   "comments": false
 }
